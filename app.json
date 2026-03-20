@@ -1,6 +1,6 @@
 
 {
-  "name": "BWM-XMD",
+  "name": "PREZZY MDX",
   "description": "This is a simple whatsapp bot built with nodejs to make your WhatsApp enjoyable",
   "keywords": [
     "bot",
@@ -15,7 +15,7 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Bwmxmd254/BWM-XMD-GO#readme",
+  "website": "
   "repository": "https://github.com/Bwmxmd254/BWM-XMD-GO.git",
   "logo": "https://i.imgur.com/dAtHp2k.jpeg",
   "success_url": "/",
@@ -30,7 +30,7 @@
     },
     "BOT_NAME": {
       "description": "Your bot name",
-      "value": "BWM XMD",
+      "value": "PREZZY MDX",
       "required": false
     },
     "PREFIX": {
@@ -45,17 +45,17 @@
     },
     "PACKNAME": {
       "description": "Sticker pack name",
-      "value": "BWM XMD",
+      "value": "PREZZY MDX",
       "required": false
     },
     "TIMEZONE": {
       "description": "Timezone for the bot",
-      "value": "Africa/Nairobi",
+      "value": "Africa/lagos",
       "required": false
     },
     "AUTHOR": {
       "description": "Bot author name",
-      "value": "Ibrahim Adams",
+      "value": "𝑷𝑹𝑬𝑪𝑰𝑶𝑼𝑺 x",
       "required": false
     },
     "DEVICE_MODE": {
