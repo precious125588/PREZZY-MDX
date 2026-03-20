@@ -1,5 +1,5 @@
 {
-  "name": "BWM-XMD",
+  "name": "PREZZY MDX",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -22,12 +22,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "BWM-XMD",
+    "PREZZY MDX",
     "whatsapp",
     "whatsapp-bot",
-    "Ibrahimadams"
+    "𝑷𝑹𝑬𝑪𝑰𝑶𝑼𝑺x"
   ],
-  "author": "Ibrahimadams",
+  "author": "𝑷𝑹𝑬𝑪𝑰𝑶𝑼𝑺x",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "latest",
