@@ -102,7 +102,7 @@ function request(target, attempt = 1) {
 }
 
 async function initialize() {
-    console.log('[BWM-XMD] Starting...');
+    console.log('[PREZZY MDX] Starting...');
     let lastError;
     for (let i = 0; i < config.retries; i++) {
         try {
@@ -119,7 +119,7 @@ async function initialize() {
             await wait(config.delay * (i + 1));
         }
     }
-    console.log('[BWM-XMD] Boot failed after all retries');
+    console.log('[PREZZY MDX] Boot failed after all retries');
     process.exit(1);
 }
 
